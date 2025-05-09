@@ -1,0 +1,37 @@
+.homeimg{
+    width: 100%;
+}
+
+.running{
+    background-image: url('images/running.png');
+    background-position: center center;
+    background-size: cover;
+}
+
+.man{
+    background-image: url('images/man.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.woman{
+    background-image: url('images/woman.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+
+.showroom{
+    background-image: url(https://templatekit.jegtheme.com/fillo/wp-content/uploads/sites/66/2021/03/blissful-girl-with-dark-brown-hair-posing-with-pleasure-at-basketball-court-e1617157825628.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.parallax{
+    background-image: url('images/parallax.jpg');
+    background-position: center center;
+    background-size: cover;
+}

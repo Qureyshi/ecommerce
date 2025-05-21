@@ -31,7 +31,7 @@
 
 
 .parallax{
-    background-image: url('images/parallax.jpg');
+    background-image: url('/images/parallax.jpg');
     background-position: center center;
     background-size: cover;
 }

@@ -3,7 +3,7 @@
 }
 
 .running{
-    background-image: url('images/running.png');
+    background-image: url('./images/running.png');
     background-position: center center;
     background-size: cover;
 }

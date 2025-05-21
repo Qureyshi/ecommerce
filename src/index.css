@@ -3,19 +3,19 @@
 }
 
 .running{
-    background-image: url('images/running.png');
+    background-image: url('/images/running.png');
     background-position: center center;
     background-size: cover;
 }
 
 .man{
-    background-image: url('images/man.jpg');
+    background-image: url('/images/man.jpg');
     background-position: center center;
     background-size: cover;
 }
 
 .woman{
-    background-image: url('images/woman.jpg');
+    background-image: url('/images/woman.jpg');
     background-position: center center;
     background-size: cover;
 }

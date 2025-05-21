@@ -98,7 +98,7 @@ const handleClick = (tab) => {
               <div className="col-lg-4">
                 <h1 className='text-white'>NIKE AIR <br />MAX</h1>
                 <h3 class="elementor-heading-title elementor-size-default">COMFY AND Trendy</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus.</p>
                 <button type="button" class="btn btn-dark">SHOP HERE</button>
               </div>
               <div className="col-lg-8">
